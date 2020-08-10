@@ -8,6 +8,12 @@
 
 > Application that validates payment slips using their barcode.
 
+## Installation
+
+```sh
+yarn
+```
+
 ## Usage
 
 ```sh
